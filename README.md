@@ -1,16 +1,37 @@
-## Hi there 👋
+***
 
-<!--
-**nadezhda323/nadezhda323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✦  Здравствуйте  ✦
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+> Пусть каждый коммит приближает к цели, а каждый merge проходит без конфликтов.
+
+***
+## Обо мне
+| Параметр | Данные | 
+| ----------- | ----------- | 
+| Любимые книги | Перси Джексон, Воздушный народ |
+| Любимый фильм | Трансформеры, В бой идут одни старики, Пираты Карибского моря, Marvel |
+| Любимые музыкальные группы | Ундервуд, Uma2rman, Браво, Сплин, Felice Rivarez, КИНО, ЧайФ, Би-2, Alex Warren, Аквариум, Мураками многие другие|
+## Хобби
+- Чтение
+- Стрельба
+- Вязание
+- Плетение из бисера
+
+## Любимые цитаты
+> Без жертвы нет победы   
+> У всех разумных существ есть право быть свободными  
+> Вы можете утратить веру в нас, но только не в самих себя   
+> В каком-то смысле хорошо знать, что где-то там существуют греческие боги, поскольку есть на кого свалить вину, если пошла непруха  
+> Забавно, как люди умеют обволакивать происходящее разными хитросплетениями слов, подгоняя его под собственную версию реальности  
+> Знания не всегда сила, иногда это бремя
+
+## Команда из Git
+```git push```
+## Языки программирования, которые я знаю
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+![](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=nadezhda323&layout=compact&theme=radical)
